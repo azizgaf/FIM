@@ -23,7 +23,7 @@ This is a file integrity monitor.
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/dYrnHOF.gif" height="100%" width="100%"/>
+<img src="https://imgur.com/KbncfTv.gif" height="100%" width="100%"/>
 <br />
 </p>
 
