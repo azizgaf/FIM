@@ -11,7 +11,7 @@ This is a file integrity monitor.
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/8PlejHj.gif" height="100%" width="100%"/>
+<img src="https://imgur.com/5Iafboz.gif" height="100%" width="100%"/>
 <br />
 </p>
 
