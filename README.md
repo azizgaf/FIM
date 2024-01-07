@@ -11,19 +11,19 @@ This is a file integrity monitor.
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/8PlejHj.gif" height="50%" width="50%"/>
+<img src="https://imgur.com/8PlejHj.gif" height="100%" width="100%"/>
 <br />
 </p>
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/RBzh7E4.gif" height="50%" width="50%"/>
+<img src="https://imgur.com/RBzh7E4.gif" height="100%" width="100%"/>
 <br />
 </p>
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/dYrnHOF.gif" height="50%" width="50%"/>
+<img src="https://imgur.com/dYrnHOF.gif" height="100%" width="100%"/>
 <br />
 </p>
 
