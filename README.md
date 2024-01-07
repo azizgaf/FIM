@@ -9,20 +9,20 @@ This is a file integrity monitor.
 
 <h2>Results</h2>
 
-<p align="center">
 <br/> First creating a hash of each file to set our baseline to compare against later:
+<p align="center">
 <img src="https://imgur.com/5Iafboz.gif" height="100%" width="100%"/>
 <br />
 </p>
 
-<p align="center">
 <br/> Starting the file monitoring loop constantly hashing the file data and checking against baseline, and creating a message if the hash has changed:
+<p align="center">
 <img src="https://imgur.com/Wg5W6kq.gif" height="100%" width="100%"/>
 <br />
 </p>
 
-<p align="center">
 <br/> Resetting the baseline after the files have been changed by running the script again:
+<p align="center">
 <img src="https://imgur.com/KbncfTv.gif" height="100%" width="100%"/>
 <br />
 </p>
