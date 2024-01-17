@@ -4,7 +4,7 @@
 <h2>Description</h2>
 The aim of this project was to create a simple file integrity monitor which monitors 3 text files for any changes by creating a baseline hash of each folder then continously monitoring the files by hashing and checking against the baseline for changes. 
 <br> 
-<br> Please note the user inputs are not checked and the script is susceptible to an injection attack. 
+
 
 
 <h2>Results</h2>
